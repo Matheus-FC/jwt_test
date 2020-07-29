@@ -1,0 +1,11 @@
+.metadata/
+.vscode/
+
+### Backend ###
+
+
+### Frontend ###
+front-anime/node_modules/
+front-anime/.editorconfig
+
+
